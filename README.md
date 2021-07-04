@@ -1,0 +1,2 @@
+# Ucgende-islemler
+Patika ödevi
